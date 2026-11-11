@@ -1,0 +1,30 @@
+{
+	"signatures": [
+		{
+			"keyid": "ef5550b25cfc0967d34395a2ead9b3aeac50fd3fac598dd09e6a0bde930754d9",
+			"sig": "8251bf659afe1de8beec8cf22e710d7e44df4e8bf3d745784e5cc809dcb68a7b75cd38b397fdb0014ad584c63c74c5b9c255acb9f0b5b48fb4653511b931d506"
+		}
+	],
+	"signed": {
+		"_type": "targets",
+		"expires": "2027-02-09T06:10:09.584647Z",
+		"spec_version": "1.0.31",
+		"targets": {
+			"darwin-universal.tar.gz": {
+				"custom": {
+					"version": "1.2.15",
+					"build": 20261111060817,
+					"schema": 9,
+					"tag": "v1.2.15-b20261111060817",
+					"asset": "MMG-1.2.15.tar.gz",
+					"state_format": "0978c2e3d2d3c22efc42514badd43a54e7fd210342d5ee3ac50915eb32a8a74c"
+				},
+				"hashes": {
+					"sha256": "587f60853d2295838d3b14556950828ee82dcebccacec4924f4de2eca56f714a"
+				},
+				"length": 153769937
+			}
+		},
+		"version": 20261111060817
+	}
+}
